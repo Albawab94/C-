@@ -21,11 +21,20 @@ namespace HenE.Abdul.Game_OX
         public override short BepaalZet(Bord bord)
         {
             // vraag aan de gebruiker wat hij/zij wil doen?
-            Console.WriteLine("Welke zet wil je doen?");
+            Console.WriteLine("Welke zet wil je doen ?");
             short spelerKeuze = 0;
             List<short> vrijeVelden = bord.VrijVelden();
+
             do
             {
+                Console.Write("Kies een nummer ");
+
+                foreach (short vrijVeld in vrijeVelden)
+                {
+                    Console.Write(vrijVeld.ToString() + ", ");
+                }
+
+                Console.WriteLine();
                 string splelerKiest = Console.ReadLine();
                 if (short.TryParse(splelerKiest, out spelerKeuze))
                 {
@@ -41,10 +50,9 @@ namespace HenE.Abdul.Game_OX
                     }
                 }
             }
-            while (spelerKeuze > bord.Dimension * bord.Dimension);
+            while (vrijeVelden.IndexOf(spelerKeuze) < 0);
             int GebruikerNummer = spelerKeuze;
             return (short)GebruikerNummer;
         }
-
     }
 }

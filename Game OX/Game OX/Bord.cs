@@ -70,6 +70,7 @@ namespace HenE.Abdul.Game_OX
                         {
                             line.Append("   ");
                         }
+
                         string indexToString = index.ToString();
                         if (index < 10)
                         {
@@ -82,31 +83,35 @@ namespace HenE.Abdul.Game_OX
                     else
                     {
                         // toon het teken in het scherm
-                        line.AppendFormat("  {0}  ", this.veldenOphetBord[column, row].ToString());
+                        if (row == 0)
+                        {
+                            line.Append("   ");
+                        }
+
+                        line.AppendFormat("   {0}  ", this.veldenOphetBord[column, row].ToString());
                     }
 
                     // + toevoegen of niet?
                     if (row != this.Dimension-1)
                     {
                         line.Append("  |   ");
-                        if (column != this.Dimension-1)
+                        if (column != this.Dimension - 1)
                         {
                             lijn += "-----------+";
                         }
-                        
-
                     }
 
                     index++;
                 }
-                if (column != this.Dimension-1)
+
+                if (column != this.Dimension - 1)
                 {
                     lijn += "-----------";
                 }
+
                 line.AppendLine();
                 line.Append(lijn);
                 line.AppendLine();
-                
             }
 
             Console.WriteLine(line.ToString());
@@ -347,11 +352,11 @@ namespace HenE.Abdul.Game_OX
         }
 
         /// <summary>
-        /// convert van de col en row naar de index
+        /// convert van de col en row naar de index.
         /// </summary>
-        /// <param name="column">olumn</param>
-        /// <param name="row">row </param>
-        /// <returns>index van de col en row</returns>
+        /// <param name="column">column.</param>
+        /// <param name="row">row. </param>
+        /// <returns>index van de col en row.</returns>
         private short ConvertColRowToIndexToArray(short column, short row)
         {
             // gezeik

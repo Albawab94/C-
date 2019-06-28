@@ -39,7 +39,8 @@ namespace HenE.Abdul.Game_OX
             do
             {
                 indexOpHetBord = this.BepaalZet(bord);
-            } while (!bord.IsValidZet(indexOpHetBord));
+            }
+            while (!bord.IsValidZet(indexOpHetBord));
 
             bord.DoeZet(this, indexOpHetBord);
         }

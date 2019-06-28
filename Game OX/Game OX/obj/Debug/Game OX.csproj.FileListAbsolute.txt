@@ -19,3 +19,10 @@ C:\Users\Abdul\Desktop\C#\Game OX\Game OX\obj\Debug\Game OX.csprojAssemblyRefere
 C:\Users\Abdul\Desktop\C#\Game OX\Game OX\obj\Debug\Game OX.csproj.CoreCompileInputs.cache
 C:\Users\Abdul\Desktop\C#\Game OX\Game OX\obj\Debug\Game OX.exe
 C:\Users\Abdul\Desktop\C#\Game OX\Game OX\obj\Debug\Game OX.pdb
+C:\Users\Gebruiker\Desktop\C#\Game OX\Game OX\bin\Debug\Game OX.exe.config
+C:\Users\Gebruiker\Desktop\C#\Game OX\Game OX\bin\Debug\Game OX.exe
+C:\Users\Gebruiker\Desktop\C#\Game OX\Game OX\bin\Debug\Game OX.pdb
+C:\Users\Gebruiker\Desktop\C#\Game OX\Game OX\obj\Debug\Game OX.csprojAssemblyReference.cache
+C:\Users\Gebruiker\Desktop\C#\Game OX\Game OX\obj\Debug\Game OX.csproj.CoreCompileInputs.cache
+C:\Users\Gebruiker\Desktop\C#\Game OX\Game OX\obj\Debug\Game OX.exe
+C:\Users\Gebruiker\Desktop\C#\Game OX\Game OX\obj\Debug\Game OX.pdb
