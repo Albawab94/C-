@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="HenE.Abdul.Game_OX.Actie" Collapsed="true">
+    <Position X="5.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAABAA=</HashCode>
+      <FileName>Actie.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HenE.Abdul.Game_OX.Bord">
+    <Position X="7" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAgAEAAIAAAAAAAAAACIAAAAACAaAAAIAAIAAAAAAA=</HashCode>
+      <FileName>Bord.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HenE.Abdul.Game_OX.ComputerSpeler">
+    <Position X="2.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQA=</HashCode>
+      <FileName>ComputerSpeler.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HenE.Abdul.Game_OX.HumanSpeler">
+    <Position X="0.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQA=</HashCode>
+      <FileName>HumanSpeler.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HenE.Abdul.Game_OX.Spel">
+    <Position X="8.75" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABAAAAiAAAAAAAQAAAAgAAAAIAAACAAAAAAAAAAA=</HashCode>
+      <FileName>spel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HenE.Abdul.Game_OX.Speler">
+    <Position X="1.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAACAAAAAAAABAAAAgAAAEAAAAAAAAAAIQA=</HashCode>
+      <FileName>Speler.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Game_OX.Program" Collapsed="true">
+    <Position X="5.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="HenE.Abdul.Game_OX.Teken" Collapsed="true">
+    <Position X="5.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAQCA=</HashCode>
+      <FileName>Teken.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

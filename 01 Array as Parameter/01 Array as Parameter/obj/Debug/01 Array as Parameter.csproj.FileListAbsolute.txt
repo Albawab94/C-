@@ -1,0 +1,6 @@
+C:\Users\Gebruiker\Desktop\C#\01 Array as Parameter\01 Array as Parameter\obj\Debug\01 Array as Parameter.csproj.CoreCompileInputs.cache
+C:\Users\Gebruiker\Desktop\C#\01 Array as Parameter\01 Array as Parameter\bin\Debug\01 Array as Parameter.exe.config
+C:\Users\Gebruiker\Desktop\C#\01 Array as Parameter\01 Array as Parameter\bin\Debug\01 Array as Parameter.exe
+C:\Users\Gebruiker\Desktop\C#\01 Array as Parameter\01 Array as Parameter\bin\Debug\01 Array as Parameter.pdb
+C:\Users\Gebruiker\Desktop\C#\01 Array as Parameter\01 Array as Parameter\obj\Debug\01 Array as Parameter.exe
+C:\Users\Gebruiker\Desktop\C#\01 Array as Parameter\01 Array as Parameter\obj\Debug\01 Array as Parameter.pdb

@@ -1,0 +1,7 @@
+C:\Users\Abdul\Desktop\C#\07-08\ex 1 oop\ex 1 oop\bin\Debug\ex 1 oop.exe.config
+C:\Users\Abdul\Desktop\C#\07-08\ex 1 oop\ex 1 oop\bin\Debug\ex 1 oop.exe
+C:\Users\Abdul\Desktop\C#\07-08\ex 1 oop\ex 1 oop\bin\Debug\ex 1 oop.pdb
+C:\Users\Abdul\Desktop\C#\07-08\ex 1 oop\ex 1 oop\obj\Debug\ex 1 oop.csprojAssemblyReference.cache
+C:\Users\Abdul\Desktop\C#\07-08\ex 1 oop\ex 1 oop\obj\Debug\ex 1 oop.csproj.CoreCompileInputs.cache
+C:\Users\Abdul\Desktop\C#\07-08\ex 1 oop\ex 1 oop\obj\Debug\ex 1 oop.exe
+C:\Users\Abdul\Desktop\C#\07-08\ex 1 oop\ex 1 oop\obj\Debug\ex 1 oop.pdb

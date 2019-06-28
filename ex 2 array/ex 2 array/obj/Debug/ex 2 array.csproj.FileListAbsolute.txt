@@ -1,0 +1,7 @@
+C:\Users\Gebruiker\Desktop\C#\ex 2 array\ex 2 array\bin\Debug\ex 2 array.exe.config
+C:\Users\Gebruiker\Desktop\C#\ex 2 array\ex 2 array\bin\Debug\ex 2 array.exe
+C:\Users\Gebruiker\Desktop\C#\ex 2 array\ex 2 array\bin\Debug\ex 2 array.pdb
+C:\Users\Gebruiker\Desktop\C#\ex 2 array\ex 2 array\obj\Debug\ex 2 array.csprojAssemblyReference.cache
+C:\Users\Gebruiker\Desktop\C#\ex 2 array\ex 2 array\obj\Debug\ex 2 array.csproj.CoreCompileInputs.cache
+C:\Users\Gebruiker\Desktop\C#\ex 2 array\ex 2 array\obj\Debug\ex 2 array.exe
+C:\Users\Gebruiker\Desktop\C#\ex 2 array\ex 2 array\obj\Debug\ex 2 array.pdb

@@ -1,0 +1,7 @@
+C:\Users\Abdul\Desktop\C#\OOP\03 static\03 static\bin\Debug\03 static.exe.config
+C:\Users\Abdul\Desktop\C#\OOP\03 static\03 static\bin\Debug\03 static.exe
+C:\Users\Abdul\Desktop\C#\OOP\03 static\03 static\bin\Debug\03 static.pdb
+C:\Users\Abdul\Desktop\C#\OOP\03 static\03 static\obj\Debug\03 static.csprojAssemblyReference.cache
+C:\Users\Abdul\Desktop\C#\OOP\03 static\03 static\obj\Debug\03 static.csproj.CoreCompileInputs.cache
+C:\Users\Abdul\Desktop\C#\OOP\03 static\03 static\obj\Debug\03 static.exe
+C:\Users\Abdul\Desktop\C#\OOP\03 static\03 static\obj\Debug\03 static.pdb

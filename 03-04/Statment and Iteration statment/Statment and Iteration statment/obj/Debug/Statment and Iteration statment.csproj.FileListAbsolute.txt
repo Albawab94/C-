@@ -1,0 +1,7 @@
+C:\Users\Abdul\Desktop\C#\Statment and Iteration statment\Statment and Iteration statment\bin\Debug\Statment and Iteration statment.exe.config
+C:\Users\Abdul\Desktop\C#\Statment and Iteration statment\Statment and Iteration statment\bin\Debug\Statment and Iteration statment.exe
+C:\Users\Abdul\Desktop\C#\Statment and Iteration statment\Statment and Iteration statment\bin\Debug\Statment and Iteration statment.pdb
+C:\Users\Abdul\Desktop\C#\Statment and Iteration statment\Statment and Iteration statment\obj\Debug\Statment and Iteration statment.csprojAssemblyReference.cache
+C:\Users\Abdul\Desktop\C#\Statment and Iteration statment\Statment and Iteration statment\obj\Debug\Statment and Iteration statment.csproj.CoreCompileInputs.cache
+C:\Users\Abdul\Desktop\C#\Statment and Iteration statment\Statment and Iteration statment\obj\Debug\Statment and Iteration statment.exe
+C:\Users\Abdul\Desktop\C#\Statment and Iteration statment\Statment and Iteration statment\obj\Debug\Statment and Iteration statment.pdb

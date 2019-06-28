@@ -1,0 +1,6 @@
+C:\Users\Abdul\Desktop\C#\OOP\02 constractor\02 constractor\bin\Debug\02 constractor.exe.config
+C:\Users\Abdul\Desktop\C#\OOP\02 constractor\02 constractor\bin\Debug\02 constractor.exe
+C:\Users\Abdul\Desktop\C#\OOP\02 constractor\02 constractor\bin\Debug\02 constractor.pdb
+C:\Users\Abdul\Desktop\C#\OOP\02 constractor\02 constractor\obj\Debug\02 constractor.csproj.CoreCompileInputs.cache
+C:\Users\Abdul\Desktop\C#\OOP\02 constractor\02 constractor\obj\Debug\02 constractor.exe
+C:\Users\Abdul\Desktop\C#\OOP\02 constractor\02 constractor\obj\Debug\02 constractor.pdb

@@ -1,0 +1,7 @@
+C:\Users\Gebruiker\Desktop\C#\OOP\03 - Abstract\03 - Abstract\bin\Debug\03 - Abstract.exe.config
+C:\Users\Gebruiker\Desktop\C#\OOP\03 - Abstract\03 - Abstract\bin\Debug\03 - Abstract.exe
+C:\Users\Gebruiker\Desktop\C#\OOP\03 - Abstract\03 - Abstract\bin\Debug\03 - Abstract.pdb
+C:\Users\Gebruiker\Desktop\C#\OOP\03 - Abstract\03 - Abstract\obj\Debug\03 - Abstract.csprojAssemblyReference.cache
+C:\Users\Gebruiker\Desktop\C#\OOP\03 - Abstract\03 - Abstract\obj\Debug\03 - Abstract.csproj.CoreCompileInputs.cache
+C:\Users\Gebruiker\Desktop\C#\OOP\03 - Abstract\03 - Abstract\obj\Debug\03 - Abstract.exe
+C:\Users\Gebruiker\Desktop\C#\OOP\03 - Abstract\03 - Abstract\obj\Debug\03 - Abstract.pdb

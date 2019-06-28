@@ -1,0 +1,7 @@
+C:\Users\Abdul\Desktop\C#\07-08\Two Main method\Two Main method\obj\Debug\Two Main method.csprojAssemblyReference.cache
+C:\Users\Abdul\Desktop\C#\07-08\Two Main method\Two Main method\obj\Debug\Two Main method.csproj.CoreCompileInputs.cache
+C:\Users\Abdul\Desktop\C#\07-08\Two Main method\Two Main method\bin\Debug\Two Main method.exe.config
+C:\Users\Abdul\Desktop\C#\07-08\Two Main method\Two Main method\bin\Debug\Two Main method.exe
+C:\Users\Abdul\Desktop\C#\07-08\Two Main method\Two Main method\bin\Debug\Two Main method.pdb
+C:\Users\Abdul\Desktop\C#\07-08\Two Main method\Two Main method\obj\Debug\Two Main method.exe
+C:\Users\Abdul\Desktop\C#\07-08\Two Main method\Two Main method\obj\Debug\Two Main method.pdb

@@ -1,0 +1,7 @@
+C:\Users\Abdul\Desktop\C#\SrtingBuilder\SrtingBuilder\bin\Debug\SrtingBuilder.exe.config
+C:\Users\Abdul\Desktop\C#\SrtingBuilder\SrtingBuilder\bin\Debug\SrtingBuilder.exe
+C:\Users\Abdul\Desktop\C#\SrtingBuilder\SrtingBuilder\bin\Debug\SrtingBuilder.pdb
+C:\Users\Abdul\Desktop\C#\SrtingBuilder\SrtingBuilder\obj\Debug\SrtingBuilder.csprojAssemblyReference.cache
+C:\Users\Abdul\Desktop\C#\SrtingBuilder\SrtingBuilder\obj\Debug\SrtingBuilder.csproj.CoreCompileInputs.cache
+C:\Users\Abdul\Desktop\C#\SrtingBuilder\SrtingBuilder\obj\Debug\SrtingBuilder.exe
+C:\Users\Abdul\Desktop\C#\SrtingBuilder\SrtingBuilder\obj\Debug\SrtingBuilder.pdb

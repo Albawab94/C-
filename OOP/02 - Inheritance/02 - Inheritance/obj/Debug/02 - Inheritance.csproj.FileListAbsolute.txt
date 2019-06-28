@@ -1,0 +1,7 @@
+C:\Users\Gebruiker\Desktop\C#\OOP\02 - Inheritance\02 - Inheritance\bin\Debug\02 - Inheritance.exe.config
+C:\Users\Gebruiker\Desktop\C#\OOP\02 - Inheritance\02 - Inheritance\bin\Debug\02 - Inheritance.exe
+C:\Users\Gebruiker\Desktop\C#\OOP\02 - Inheritance\02 - Inheritance\bin\Debug\02 - Inheritance.pdb
+C:\Users\Gebruiker\Desktop\C#\OOP\02 - Inheritance\02 - Inheritance\obj\Debug\02 - Inheritance.csprojAssemblyReference.cache
+C:\Users\Gebruiker\Desktop\C#\OOP\02 - Inheritance\02 - Inheritance\obj\Debug\02 - Inheritance.csproj.CoreCompileInputs.cache
+C:\Users\Gebruiker\Desktop\C#\OOP\02 - Inheritance\02 - Inheritance\obj\Debug\02 - Inheritance.exe
+C:\Users\Gebruiker\Desktop\C#\OOP\02 - Inheritance\02 - Inheritance\obj\Debug\02 - Inheritance.pdb

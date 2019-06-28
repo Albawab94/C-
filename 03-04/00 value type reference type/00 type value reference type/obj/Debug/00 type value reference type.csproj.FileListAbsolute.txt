@@ -1,0 +1,7 @@
+C:\Users\Abdul\Desktop\C#\03-04\00 value type reference type\00 type value reference type\bin\Debug\00 type value reference type.exe.config
+C:\Users\Abdul\Desktop\C#\03-04\00 value type reference type\00 type value reference type\bin\Debug\00 type value reference type.exe
+C:\Users\Abdul\Desktop\C#\03-04\00 value type reference type\00 type value reference type\bin\Debug\00 type value reference type.pdb
+C:\Users\Abdul\Desktop\C#\03-04\00 value type reference type\00 type value reference type\obj\Debug\00 type value reference type.csprojAssemblyReference.cache
+C:\Users\Abdul\Desktop\C#\03-04\00 value type reference type\00 type value reference type\obj\Debug\00 type value reference type.csproj.CoreCompileInputs.cache
+C:\Users\Abdul\Desktop\C#\03-04\00 value type reference type\00 type value reference type\obj\Debug\00 type value reference type.exe
+C:\Users\Abdul\Desktop\C#\03-04\00 value type reference type\00 type value reference type\obj\Debug\00 type value reference type.pdb

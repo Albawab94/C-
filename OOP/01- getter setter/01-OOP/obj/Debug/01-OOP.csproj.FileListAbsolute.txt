@@ -1,0 +1,7 @@
+C:\Users\Gebruiker\Desktop\C#\01-OOP\01-OOP\bin\Debug\01-OOP.exe.config
+C:\Users\Gebruiker\Desktop\C#\01-OOP\01-OOP\bin\Debug\01-OOP.exe
+C:\Users\Gebruiker\Desktop\C#\01-OOP\01-OOP\bin\Debug\01-OOP.pdb
+C:\Users\Gebruiker\Desktop\C#\01-OOP\01-OOP\obj\Debug\01-OOP.csprojAssemblyReference.cache
+C:\Users\Gebruiker\Desktop\C#\01-OOP\01-OOP\obj\Debug\01-OOP.csproj.CoreCompileInputs.cache
+C:\Users\Gebruiker\Desktop\C#\01-OOP\01-OOP\obj\Debug\01-OOP.exe
+C:\Users\Gebruiker\Desktop\C#\01-OOP\01-OOP\obj\Debug\01-OOP.pdb

@@ -1,0 +1,6 @@
+C:\Users\Abdul\Desktop\C#\OOP\04 Nested Classes\04 Nested Classes\bin\Debug\04 Nested Classes.exe.config
+C:\Users\Abdul\Desktop\C#\OOP\04 Nested Classes\04 Nested Classes\bin\Debug\04 Nested Classes.exe
+C:\Users\Abdul\Desktop\C#\OOP\04 Nested Classes\04 Nested Classes\bin\Debug\04 Nested Classes.pdb
+C:\Users\Abdul\Desktop\C#\OOP\04 Nested Classes\04 Nested Classes\obj\Debug\04 Nested Classes.csproj.CoreCompileInputs.cache
+C:\Users\Abdul\Desktop\C#\OOP\04 Nested Classes\04 Nested Classes\obj\Debug\04 Nested Classes.exe
+C:\Users\Abdul\Desktop\C#\OOP\04 Nested Classes\04 Nested Classes\obj\Debug\04 Nested Classes.pdb

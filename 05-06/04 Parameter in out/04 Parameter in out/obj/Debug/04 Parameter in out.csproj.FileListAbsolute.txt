@@ -1,0 +1,7 @@
+C:\Users\Abdul\Desktop\C#\05-06\04 Parameter in out\04 Parameter in out\bin\Debug\04 Parameter in out.exe.config
+C:\Users\Abdul\Desktop\C#\05-06\04 Parameter in out\04 Parameter in out\bin\Debug\04 Parameter in out.exe
+C:\Users\Abdul\Desktop\C#\05-06\04 Parameter in out\04 Parameter in out\bin\Debug\04 Parameter in out.pdb
+C:\Users\Abdul\Desktop\C#\05-06\04 Parameter in out\04 Parameter in out\obj\Debug\04 Parameter in out.csprojAssemblyReference.cache
+C:\Users\Abdul\Desktop\C#\05-06\04 Parameter in out\04 Parameter in out\obj\Debug\04 Parameter in out.csproj.CoreCompileInputs.cache
+C:\Users\Abdul\Desktop\C#\05-06\04 Parameter in out\04 Parameter in out\obj\Debug\04 Parameter in out.exe
+C:\Users\Abdul\Desktop\C#\05-06\04 Parameter in out\04 Parameter in out\obj\Debug\04 Parameter in out.pdb

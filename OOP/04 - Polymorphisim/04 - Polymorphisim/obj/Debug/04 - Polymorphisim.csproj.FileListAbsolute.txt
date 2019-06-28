@@ -1,0 +1,7 @@
+C:\Users\Gebruiker\Desktop\C#\OOP\04 - Polymorphisim\04 - Polymorphisim\obj\Debug\04 - Polymorphisim.csprojAssemblyReference.cache
+C:\Users\Gebruiker\Desktop\C#\OOP\04 - Polymorphisim\04 - Polymorphisim\obj\Debug\04 - Polymorphisim.csproj.CoreCompileInputs.cache
+C:\Users\Gebruiker\Desktop\C#\OOP\04 - Polymorphisim\04 - Polymorphisim\bin\Debug\04 - Polymorphisim.exe.config
+C:\Users\Gebruiker\Desktop\C#\OOP\04 - Polymorphisim\04 - Polymorphisim\bin\Debug\04 - Polymorphisim.exe
+C:\Users\Gebruiker\Desktop\C#\OOP\04 - Polymorphisim\04 - Polymorphisim\bin\Debug\04 - Polymorphisim.pdb
+C:\Users\Gebruiker\Desktop\C#\OOP\04 - Polymorphisim\04 - Polymorphisim\obj\Debug\04 - Polymorphisim.exe
+C:\Users\Gebruiker\Desktop\C#\OOP\04 - Polymorphisim\04 - Polymorphisim\obj\Debug\04 - Polymorphisim.pdb

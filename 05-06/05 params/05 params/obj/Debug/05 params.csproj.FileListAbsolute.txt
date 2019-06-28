@@ -1,0 +1,7 @@
+C:\Users\Abdul\Desktop\C#\05-06\05 params\05 params\bin\Debug\05 params.exe.config
+C:\Users\Abdul\Desktop\C#\05-06\05 params\05 params\bin\Debug\05 params.exe
+C:\Users\Abdul\Desktop\C#\05-06\05 params\05 params\bin\Debug\05 params.pdb
+C:\Users\Abdul\Desktop\C#\05-06\05 params\05 params\obj\Debug\05 params.csprojAssemblyReference.cache
+C:\Users\Abdul\Desktop\C#\05-06\05 params\05 params\obj\Debug\05 params.csproj.CoreCompileInputs.cache
+C:\Users\Abdul\Desktop\C#\05-06\05 params\05 params\obj\Debug\05 params.exe
+C:\Users\Abdul\Desktop\C#\05-06\05 params\05 params\obj\Debug\05 params.pdb

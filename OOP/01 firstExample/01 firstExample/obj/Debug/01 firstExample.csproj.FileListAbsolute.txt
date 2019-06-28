@@ -1,0 +1,7 @@
+C:\Users\Abdul\Desktop\C#\OOP\01 firstExample\01 firstExample\bin\Debug\01 firstExample.exe.config
+C:\Users\Abdul\Desktop\C#\OOP\01 firstExample\01 firstExample\bin\Debug\01 firstExample.exe
+C:\Users\Abdul\Desktop\C#\OOP\01 firstExample\01 firstExample\bin\Debug\01 firstExample.pdb
+C:\Users\Abdul\Desktop\C#\OOP\01 firstExample\01 firstExample\obj\Debug\01 firstExample.csprojAssemblyReference.cache
+C:\Users\Abdul\Desktop\C#\OOP\01 firstExample\01 firstExample\obj\Debug\01 firstExample.csproj.CoreCompileInputs.cache
+C:\Users\Abdul\Desktop\C#\OOP\01 firstExample\01 firstExample\obj\Debug\01 firstExample.exe
+C:\Users\Abdul\Desktop\C#\OOP\01 firstExample\01 firstExample\obj\Debug\01 firstExample.pdb
